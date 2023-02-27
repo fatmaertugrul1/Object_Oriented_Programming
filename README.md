@@ -1,6 +1,8 @@
 # Object_Oriented_Programming
 Patika.dev'in eğitiminde yaptığım ödevlerden oluşmaktadır.
 
+https://app.patika.dev/courses/oop
+
 Üniversite yönetim sistemi diyagramını aşağıdaki özelliklere göre oluşturdum:
 
 1 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
