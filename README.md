@@ -14,8 +14,9 @@ Patika.dev'in eğitiminde yaptığım ödevlerden oluşmaktadır.
 Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
+
+Hayvanat bahçesi yönetimi diyagramını aşağıdaki özelliklere göre oluşturdum:
  
- Hayvanat bahçesi yönetimi diyagramını aşağıdaki özelliklere göre oluşturdum:
 Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için bir sistem tasarlıyorsunuz.
 
 Hayvanlar:
